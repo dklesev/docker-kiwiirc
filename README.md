@@ -1,4 +1,4 @@
-Docker-kiwiirc
+docker-kiwiirc
 ==============
 
 Dockerfile to build and run kiwiirc
